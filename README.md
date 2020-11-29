@@ -6,12 +6,12 @@ I worked on an Employee Attrition model that can help organizations attract and 
 1. Checking data types
 2. Describing the numerical variables
 3. Dropping variables that are not significant
-4. Building histograms to understand distribution of the data
+4. Building histograms to understand the distribution of the data
 
 **Data Processing:**
-1. Creating list of categorical variables
+1. Creating a list of categorical variables
 2. Performing Label Encoding on categorical variables to convert them
-3. Seperating independent and dependent variables
+3. Separating independent and dependent variables
 
 **Decision Tree:**
 1. Fitting decision tree model using DecisionTreeClassifier
