@@ -17,11 +17,11 @@ I worked on an Employee Attrition model that can help organizations attract and 
 1. Fitting decision tree model using DecisionTreeClassifier
 2. Improved model by performing hyperparameter tuning
 3. Parameters Used:
-  1. Criterion
-  2. Splitter
-  3. Max_Depth
-  4. Minimum_Sample_split
-  5. Minimum_Samples_Leaf
+* Criterion
+* Splitter
+* Max_Depth
+* Minimum_Sample_split
+* Minimum_Samples_Leaf
 4. Evaluated model using multiple metrics like Accuracy, Classification Report, Confusion Matrix
 
 **Random Forest:**
