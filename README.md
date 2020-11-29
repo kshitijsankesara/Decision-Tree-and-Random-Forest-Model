@@ -1,4 +1,4 @@
-# Decision-Tree-and-Random-Forest-Model
+# Employee-Attrition-Classification-Model
 
 I worked on an Employee Attrition model that can help organizations attract and retain top talent. I determined the factors that keep employees working at a company and which prompt them to leave the company. Understanding the factors is very important for HRs. The data contains various information about the past and current employees. The important task is to understand how each variable affects the workforce attrition. I developed decision tree and random forest model to classify employees using the significant variables.
 
