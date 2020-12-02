@@ -29,3 +29,6 @@ I worked on an Employee Attrition model that can help organizations attract and 
 2. Changing n_estimators to improve the model
 3. Performed hyperparameter tuning
 4. Evaluate model using different evaluation metrics
+
+# Wine Quality Classification
+
