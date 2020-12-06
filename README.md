@@ -31,5 +31,3 @@ I worked on an Employee Attrition model that can help organizations attract and 
 4. Evaluate model using different evaluation metrics
 
 # Wine Quality Classification
-
-Using
