@@ -30,5 +30,5 @@ I worked on an Employee Attrition model that can help organizations attract and 
 3. Performed hyperparameter tuning
 4. Evaluate model using different evaluation metrics
 
-# Wine Quality Classification
+# Wine Quality Classifications
 Using the same above code, I worked on a Wine Quality Classification model too. I have made use of the classification model to predict the quality of the wine.
