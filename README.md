@@ -31,4 +31,4 @@ I worked on an Employee Attrition model that can help organizations attract and 
 4. Evaluate model using different evaluation metrics
 
 # Wine Quality Classifications
-Using the same above code, I worked on a Wine Quality Classification model too. I have made use of the classification model to predict the quality of the wine..
+Using the same above code, I worked on a Wine Quality Classification model too. I have made use of the classification model to predict the quality of the wine.
